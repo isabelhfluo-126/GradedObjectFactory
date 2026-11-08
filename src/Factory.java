@@ -25,7 +25,7 @@ public class Factory {
         candiesorder1.changeFlavor("strawberry");
         candiesorder1.printInfo1();
         candiesorder1.removeCandies();
-        candiesorder2.printInfo2();
+        candiesorder1.printInfo2();
 
         //second candy object
         candiesorder2.addCandies();
